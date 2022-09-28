@@ -1,6 +1,6 @@
 # Deroplus-AstroBWTv3
 
-This is the new version of deroplus, a DERO AstroBWT/v3 miner. Deroplus has around 60% boost over the official miner.
+This is the new version of deroplus, a DERO AstroBWT/v3 miner. Deroplus has between 50-70% boost over the official miner (depends of the cpu model).
 
 To use this miner just go to releases download the version for your platform and run the prebuilt scripts.
 
